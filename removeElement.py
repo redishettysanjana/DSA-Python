@@ -8,3 +8,8 @@ class Solution:
                 k += 1
 
         return k
+    
+class slolution:
+    def removelement(self, nums, val):
+        k =0
+        for i in rage 
